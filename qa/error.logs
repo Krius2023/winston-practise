@@ -1,0 +1,6 @@
+{"level":"error","message":"I am error log from /err","timestamp":"2023-10-23T11:33:44.461Z"}
+{"level":"error","message":"HTTP GET /err","meta":{"req":{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"localhost:8001","user-agent":"vscode-restclient"},"httpVersion":"1.1","method":"GET","originalUrl":"/err","query":{},"url":"/err"},"res":{"statusCode":500},"responseTime":10},"timestamp":"2023-10-23T11:33:44.473Z"}
+{"level":"error","message":"I am error log from /err","timestamp":"2023-10-23T11:38:01.176Z"}
+{"level":"error","message":"HTTP GET /err","meta":{"req":{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"localhost:8001","user-agent":"vscode-restclient"},"httpVersion":"1.1","method":"GET","originalUrl":"/err","query":{},"url":"/err"},"res":{"statusCode":500},"responseTime":10},"timestamp":"2023-10-23T11:38:01.187Z"}
+{"level":"error","message":"I am error log from /500","timestamp":"2023-10-23T11:38:03.278Z"}
+{"level":"error","message":"HTTP GET /500","meta":{"req":{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"localhost:8001","user-agent":"vscode-restclient"},"httpVersion":"1.1","method":"GET","originalUrl":"/500","query":{},"url":"/500"},"res":{"statusCode":500},"responseTime":3},"timestamp":"2023-10-23T11:38:03.281Z"}

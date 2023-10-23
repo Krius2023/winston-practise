@@ -1,0 +1,8 @@
+###
+GET http://localhost:8001/info
+###
+GET http://localhost:8001/err
+###
+GET http://localhost:8001/400
+### 
+GET http://localhost:8001/500

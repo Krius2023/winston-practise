@@ -1,0 +1,29 @@
+{
+  "name": "winston-practise",
+  "version": "1.0.0",
+  "description": "usage of winston in logs",
+  "main": "app.js",
+  "scripts": {
+    "start-dev": "cross-env NODE_ENV=dev nodemon app.js",
+    "start-qa": "cross-env NODE_ENV=qa nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krius2023/winston-practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krius2023/winston-practise/issues"
+  },
+  "homepage": "https://github.com/Krius2023/winston-practise#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-winston": "^4.2.0",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "cross-env": "^7.0.3"
+  }
+}
